@@ -1,3 +1,7 @@
+"""
+Problem #2
+Even Fibonacci Numbers
+"""
 previous = 1
 current = 2
 evenSum = 0
